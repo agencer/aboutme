@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-  <br>
-  Ph.D. Candidate in Political Science, New York University
+subtitle: Ph.D. Candidate in Political Science, New York University
   
 profile:
   align: left
