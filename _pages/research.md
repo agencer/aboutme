@@ -87,21 +87,6 @@ My research studies how citizens evaluate political choices when democratic thre
 </details>
 
 <details class="research-card">
-  <summary>Rethinking “Them”: Challenging Out-Group Stereotypes in Backsliding Democracies</summary>
-
-  <div class="research-meta">
-    Affective polarization · Belief updating · Türkiye · Survey experiment
-  </div>
-
-  Affective polarization carries particular force in backsliding democracies, where citizens often exaggerate the extremity of their political opponents and may distrust corrective information. This study asks whether targeted, issue-specific stereotype correction can moderate those exaggerated beliefs in Türkiye, and whether its downstream effects vary by intervention format and audience. I first develop a data-light targeting procedure that uses existing opinion surveys to identify policy domains on which out-group extremity is especially likely to be overstated. I then field a preregistered online survey experiment comparing two interventions: accuracy feedback about the true distribution of out-group views, and exposure to simulated out-group conversations expressing moderate positions. Accuracy feedback leads respondents in the full sample to see the political out-group as less extreme, with larger corrective point estimates among opposition supporters, whereas conversation exposure yields weaker average belief updating. Those shifts in belief do not translate uniformly into warmer intergroup attitudes. The affective responses are more heterogeneous and often less precisely estimated, with subgroup patterns suggestive of more favorable relational responses under conversation exposure among opposition supporters, who also begin with the largest baseline misperceptions, and less favorable affective responses to accuracy feedback among government supporters. Taken together, the findings suggest that belief correction remains feasible under democratic backsliding, but that its affective consequences depend on delivery format, audience characteristics, and the credibility of the environment in which the message is received.
-
-  <div class="research-links">
-    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_Rethinking.pdf" target="_blank" rel="noopener noreferrer">Paper</a>
-    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_Rethinking_Appendix.pdf" target="_blank" rel="noopener noreferrer">Appendix</a>
-  </div>
-</details>
-
-<details class="research-card">
   <summary>Optimal Allocation of Compliance Incentives</summary>
 
   <div class="research-meta">
@@ -162,18 +147,17 @@ My research studies how citizens evaluate political choices when democratic thre
 <h1 class="research-section-title">Under review</h1>
 
 <details class="research-card">
-  <summary>[Add paper title]</summary>
+  <summary>Rethinking “Them”: Challenging Out-Group Stereotypes in Backsliding Democracies</summary>
 
   <div class="research-meta">
-    Under review · [Add field/topic]
+    Affective polarization · Belief updating · Türkiye · Survey experiment
   </div>
 
-  Add a short one-paragraph abstract here. Keep it concrete: research question, design, main result, and contribution.
+  Affective polarization carries particular force in backsliding democracies, where citizens often exaggerate the extremity of their political opponents and may distrust corrective information. This study asks whether targeted, issue-specific stereotype correction can moderate those exaggerated beliefs in Türkiye, and whether its downstream effects vary by intervention format and audience. I first develop a data-light targeting procedure that uses existing opinion surveys to identify policy domains on which out-group extremity is especially likely to be overstated. I then field a preregistered online survey experiment comparing two interventions: accuracy feedback about the true distribution of out-group views, and exposure to simulated out-group conversations expressing moderate positions. Accuracy feedback leads respondents in the full sample to see the political out-group as less extreme, with larger corrective point estimates among opposition supporters, whereas conversation exposure yields weaker average belief updating. Those shifts in belief do not translate uniformly into warmer intergroup attitudes. The affective responses are more heterogeneous and often less precisely estimated, with subgroup patterns suggestive of more favorable relational responses under conversation exposure among opposition supporters, who also begin with the largest baseline misperceptions, and less favorable affective responses to accuracy feedback among government supporters. Taken together, the findings suggest that belief correction remains feasible under democratic backsliding, but that its affective consequences depend on delivery format, audience characteristics, and the credibility of the environment in which the message is received.
 
   <div class="research-links">
-    <!-- <a class="btn btn-sm z-depth-0" href="/assets/pdf/under_review_paper.pdf" target="_blank" rel="noopener noreferrer">Paper</a> -->
-    <!-- <a class="btn btn-sm z-depth-0" href="/assets/pdf/under_review_appendix.pdf" target="_blank" rel="noopener noreferrer">Appendix</a> -->
-    <span class="research-note">Manuscript available upon request.</span>
+    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_Rethinking.pdf" target="_blank" rel="noopener noreferrer">Paper</a>
+    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_Rethinking_Appendix.pdf" target="_blank" rel="noopener noreferrer">Appendix</a>
   </div>
 </details>
 
