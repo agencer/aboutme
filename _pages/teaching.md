@@ -9,7 +9,7 @@ nav_order: 5
 
 My teaching focuses on comparative politics, international politics, research design, and quantitative methods.
 
-## New York University
+<h2 style="margin-top: 2rem;">New York University</h2>
 
 | Course | Role | Term |
 |---|---|---|
@@ -18,17 +18,13 @@ My teaching focuses on comparative politics, international politics, research de
 | Quantitative Methods | Teaching Assistant | Fall 2025 |
 | Introduction to Research Methods | Teaching Assistant | Spring 2026 |
 
-<div style="height: 1.5rem;"></div>
-
-## Washington University in St. Louis
+<h2 style="margin-top: 3rem;">Washington University in St. Louis</h2>
 
 | Course | Role | Term |
 |---|---|---|
 | International Politics | Teaching Assistant | Fall 2020 |
 | Quantitative Methods | Teaching Assistant | Spring 2021 |
 
-<div style="height: 1.5rem;"></div>
-
-## Teaching areas
+<h2 style="margin-top: 3rem;">Teaching areas</h2>
 
 Comparative politics, international politics, research design, causal inference, quantitative methods, and political behavior.
