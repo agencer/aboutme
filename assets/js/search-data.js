@@ -418,16 +418,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-received-the-apsa-doctoral-dissertation-research-improvement-grant-for-unbundling-autocratic-capture",
+          title: 'Received the APSA Doctoral Dissertation Research Improvement Grant for Unbundling Autocratic Capture.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-presented-optimal-allocation-of-compliance-incentives-at-the-nyu-rebecca-morton-experimental-conference",
+          title: 'Presented “Optimal Allocation of Compliance Incentives” at the NYU Rebecca Morton Experimental Conference....',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-presented-unbundling-autocratic-capture-at-behavioral-models-of-politics",
+          title: 'Presented Unbundling Autocratic Capture at Behavioral Models of Politics.',
           description: "",
           section: "News",},{id: "projects-unbundling-autocratic-capture",
           title: 'Unbundling Autocratic Capture',
