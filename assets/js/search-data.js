@@ -376,8 +376,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-received-the-apsa-doctoral-dissertation-research-improvement-grant-for-unbundling-autocratic-capture",
+            },},{id: "news-received-an-identities-amp-amp-ideologies-project-research-grant-for-work-on-stereotype-prone-beliefs",
+          title: 'Received an Identities &amp;amp;amp; Ideologies Project research grant for work on stereotype-prone beliefs....',
+          description: "",
+          section: "News",},{id: "news-received-the-apsa-doctoral-dissertation-research-improvement-grant-for-unbundling-autocratic-capture",
           title: 'Received the APSA Doctoral Dissertation Research Improvement Grant for Unbundling Autocratic Capture.',
+          description: "",
+          section: "News",},{id: "news-presented-optimal-allocation-of-compliance-incentives-at-the-nyu-data-science-frontiers-society-and-politics",
+          title: 'Presented Optimal Allocation of Compliance Incentives at the NYU Data Science Frontiers: Society...',
           description: "",
           section: "News",},{id: "news-presented-optimal-allocation-of-compliance-incentives-at-the-nyu-rebecca-morton-experimental-conference",
           title: 'Presented Optimal Allocation of Compliance Incentives at the NYU Rebecca Morton Experimental Conference....',
