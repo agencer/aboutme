@@ -12,6 +12,14 @@ nav_order: 2
     margin-top: 2rem;
   }
 
+  .research-section-title {
+    margin-top: 2.75rem;
+    margin-bottom: 1.25rem;
+    font-size: 1.9rem;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+  }
+
   .research-card {
     border: 1px solid var(--global-divider-color);
     border-radius: 8px;
@@ -57,7 +65,7 @@ My research studies how citizens evaluate political choices when democratic thre
 
 <div class="research-section">
 
-## Current projects
+<h1 class="research-section-title">Current projects</h1>
 
 <details class="research-card" open>
   <summary>Unbundling Autocratic Capture</summary>
@@ -136,7 +144,7 @@ My research studies how citizens evaluate political choices when democratic thre
 
 <div class="research-section">
 
-## Under review
+<h1 class="research-section-title">Under review</h1>
 
 <details class="research-card">
   <summary>[Add paper title]</summary>
@@ -158,7 +166,7 @@ My research studies how citizens evaluate political choices when democratic thre
 
 <div class="research-section">
 
-## Published work
+<h1 class="research-section-title">Published work</h1>
 
 <details class="research-card">
   <summary>The dynamics of welfare state regime development in the global south: Structures, institutions, and political agency</summary>
