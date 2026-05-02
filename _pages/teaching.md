@@ -2,14 +2,29 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses taught and teaching experience.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 5
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+My teaching focuses on comparative politics, international politics, research design, and quantitative methods.
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+## New York University
 
-{% include courses.liquid %}
+| Course | Role | Term |
+|---|---|---|
+| International Politics | Recitation Leader | Fall 2023, Spring 2024, Spring 2025 |
+| Introduction to Comparative Politics | Recitation Leader | Fall 2024 |
+| Quantitative Methods | Teaching Assistant | Fall 2025 |
+| Introduction to Research Methods | Teaching Assistant | Spring 2026 |
+
+## Washington University in St. Louis
+
+| Course | Role | Term |
+|---|---|---|
+| International Politics | Teaching Assistant | Fall 2020 |
+| Quantitative Methods | Teaching Assistant | Spring 2021 |
+
+## Teaching areas
+
+Comparative politics, international politics, research design, causal inference, quantitative methods, and political behavior.
