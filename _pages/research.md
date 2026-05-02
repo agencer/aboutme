@@ -93,14 +93,11 @@ My research studies how citizens evaluate political choices when democratic thre
     Affective polarization · Belief updating · Türkiye · Survey experiment
   </div>
 
-  This project studies how citizens form beliefs about political opponents in polarized and backsliding democracies. I develop a strategy for identifying stereotype-prone issues and test whether correcting misperceptions about out-groups can reduce perceived extremity and affective hostility.
-
-  The project separates two outcomes that are often treated together: whether people update their beliefs about the other side, and whether those updates translate into warmer affective evaluations.
+  Affective polarization carries particular force in backsliding democracies, where citizens often exaggerate the extremity of their political opponents and may distrust corrective information. This study asks whether targeted, issue-specific stereotype correction can moderate those exaggerated beliefs in Türkiye, and whether its downstream effects vary by intervention format and audience. I first develop a data-light targeting procedure that uses existing opinion surveys to identify policy domains on which out-group extremity is especially likely to be overstated. I then field a preregistered online survey experiment comparing two interventions: accuracy feedback about the true distribution of out-group views, and exposure to simulated out-group conversations expressing moderate positions. Accuracy feedback leads respondents in the full sample to see the political out-group as less extreme, with larger corrective point estimates among opposition supporters, whereas conversation exposure yields weaker average belief updating. Those shifts in belief do not translate uniformly into warmer intergroup attitudes. The affective responses are more heterogeneous and often less precisely estimated, with subgroup patterns suggestive of more favorable relational responses under conversation exposure among opposition supporters, who also begin with the largest baseline misperceptions, and less favorable affective responses to accuracy feedback among government supporters. Taken together, the findings suggest that belief correction remains feasible under democratic backsliding, but that its affective consequences depend on delivery format, audience characteristics, and the credibility of the environment in which the message is received.
 
   <div class="research-links">
-    <!-- <a class="btn btn-sm z-depth-0" href="/assets/pdf/rethinking_them.pdf" target="_blank" rel="noopener noreferrer">Paper</a> -->
-    <!-- <a class="btn btn-sm z-depth-0" href="/assets/pdf/rethinking_them_slides.pdf" target="_blank" rel="noopener noreferrer">Slides</a> -->
-    <span class="research-note">Draft available upon request.</span>
+    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_Rethinking.pdf" target="_blank" rel="noopener noreferrer">Paper</a>
+    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_Rethinking_Appendix.pdf" target="_blank" rel="noopener noreferrer">Appendix</a>
   </div>
 </details>
 
@@ -119,6 +116,24 @@ My research studies how citizens evaluate political choices when democratic thre
     <!-- <a class="btn btn-sm z-depth-0" href="/assets/pdf/optimal_allocation_compliance_incentives.pdf" target="_blank" rel="noopener noreferrer">Paper</a> -->
     <!-- <a class="btn btn-sm z-depth-0" href="/assets/pdf/optimal_allocation_compliance_incentives_slides.pdf" target="_blank" rel="noopener noreferrer">Slides</a> -->
     <span class="research-note">Draft available upon request.</span>
+  </div>
+</details>
+
+<details class="research-card">
+  <summary>When Do Electoral Power Grabs Mobilize the Opposition? Evidence from a Survey Experiment in Turkey</summary>
+
+  <div class="research-meta">
+    Under review · Electoral manipulation · Opposition mobilization · Türkiye · Survey experiment
+  </div>
+
+  How do citizens respond when incumbents manipulate electoral rules before an election? This paper argues that reactions depend not only on whether rules are changed, but also on how the manipulation is carried out. Using a survey experiment in Turkey, I contrast institutional electoral change with extra-institutional, unilateral intervention.
+
+  The main finding is that opposition supporters exposed to extra-institutional manipulation become more willing to direct resources toward election-monitoring action, while government supporters do not. Evidence for broader participation effects is weaker, and post-treatment measures provide only limited leverage on mechanism. The results suggest that citizens respond not only to electoral manipulation itself, but also to whether those changes appear to bypass accepted political procedures.
+
+  <div class="research-links">
+    <!-- <a class="btn btn-sm z-depth-0" href="/assets/pdf/electoral_power_grabs.pdf" target="_blank" rel="noopener noreferrer">Paper</a> -->
+    <!-- <a class="btn btn-sm z-depth-0" href="/assets/pdf/electoral_power_grabs_slides.pdf" target="_blank" rel="noopener noreferrer">Slides</a> -->
+    <span class="research-note">Manuscript available upon request.</span>
   </div>
 </details>
 
@@ -175,7 +190,7 @@ My research studies how citizens evaluate political choices when democratic thre
     With Erdem Yörük · <em>Journal of Comparative Policy Analysis</em> · 2022
   </div>
 
-  This article studies welfare state development in the Global South, with attention to how structural conditions, institutions, and political agency shape social policy regimes.
+  Why do some developing countries develop generous welfare state regimes (WSR), while others do not? Which factors lead to varieties in welfare regimes in developing countries? We explain the development of different welfare state regimes (WSR) in the Global South based on the findings of WSR classification. We conduct inductive typological theory on the basis of the structure-institution-agency (SIA) framework and use positive and negative cases selected through a Most-Different-Systems-Design. Our analysis shows that a developing country that satisfies three necessary but insufficient conditions (1. having implemented a prolonged ISI period, 2. having experienced organized contentious politics of the poor, and 3. having developed adequate state capacity) is anticipated to have developed a Populist Welfare State Regime that is more generous and extensive than other welfare state regimes in the Global South. This article contributes to the long-standing debates of Southern WSRs by taking a nuanced and interactive approach that considers the interactions among structures, institutions, and political agency.
 
   <div class="research-links">
     <a class="btn btn-sm z-depth-0" href="https://doi.org/10.1080/13876988.2021.2004541" target="_blank" rel="noopener noreferrer">Journal page</a>
@@ -189,7 +204,7 @@ My research studies how citizens evaluate political choices when democratic thre
     With Erdem Yörük · <em>Governance</em> · 2020
   </div>
 
-  This article examines how protest dynamics and electoral politics shaped the development of South Africa’s Child Support Grant.
+  Since the 1990s, South Africa, like many other countries from the Global South, has provided extensive social assistance for the poor. The literature on these policies, however, is largely dominated by structuralist accounts, and it largely overlooks political factors. We conducted quantitative analyses regarding the South African flagship Child Support Grant (CSG) program and investigated how contentious and electoral political dynamics jointly shape the provision of this program. Based on a logistic regression analysis, we measured the effect of protest participation, voting preference, and their interaction on the likelihood of CSG receipt. Our analysis showed that CSG receipt is much higher among “uncontentious supporters” of ANC and “contentious nonsupporters,” as well as those who join violent protests. This lends support for our argument that CSG is being used as a tool for electoral politics and containment of unrest, providing fresh evidence for political mediation theories of social policy.
 
   <div class="research-links">
     <a class="btn btn-sm z-depth-0" href="https://doi.org/10.1111/gove.12464" target="_blank" rel="noopener noreferrer">Journal page</a>
@@ -203,7 +218,7 @@ My research studies how citizens evaluate political choices when democratic thre
     With Ziya Öniş · <em>Third World Quarterly</em> · 2018
   </div>
 
-  This article examines the political and institutional dilemmas facing democratic BRICS countries as potential role models in a changing global order.
+  India, Brazil and South Africa constitute an important subset of Brazil, Russia, India, China and South Africa (BRICS) and emerging powers at large in a shifting global order. The article examines the capacity of these democratic BRICS to serve as a role model to the rest of the developing world, at a time when liberal democracy seems to be experiencing serious challenges and dislocations in the Global North. The article considers the important achievements of democratic BRICS, in terms of their individual performances as well as through active cooperation strategies through organisations such as the India, Brazil and South Africa (IBSA) Dialogue Forum. Attention is drawn to the inherent structural dilemmas confronted by democratic BRICS to serve as genuine role models, given their domestic weaknesses as well as inherent constraints on their collective action strategies. Our central argument is that these countries, individually and collectively, are likely to have a crucial bearing on the future of liberal democracy on a global scale.
 
   <div class="research-links">
     <a class="btn btn-sm z-depth-0" href="https://doi.org/10.1080/01436597.2018.1438185" target="_blank" rel="noopener noreferrer">Journal page</a>
