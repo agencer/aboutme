@@ -1,11 +1,11 @@
-title: blank # if blank, full name will be used instead
+title: blank
 first_name: Alper
 middle_name: Sukru
 last_name: Gencer
 
 profile:
   image: prof_pic.jpg
-  
+
 contact_note: >
   The best way to reach me is by email.
 
@@ -28,4 +28,3 @@ baseurl:
 last_updated: false
 impressum_path:
 back_to_top: true
-
