@@ -1,0 +1,31 @@
+title: blank # if blank, full name will be used instead
+first_name: Alper
+middle_name: Sukru
+last_name: Gencer
+
+profile:
+  image: prof_pic.jpg
+  
+contact_note: >
+  The best way to reach me is by email.
+
+description: >
+  Ph.D. candidate in Political Science at New York University. I study political behavior,
+  democratic backsliding, political accountability, reform complexity, and belief updating,
+  using survey experiments, causal inference, computational social science, and formal theory.
+
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with
+  <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+keywords: political science, comparative politics, democratic backsliding, political behavior, causal inference, survey experiments, computational social science, formal theory, NYU
+lang: en
+icon: 🎓
+
+url: https://www.alpergencer.com
+baseurl:
+last_updated: false
+impressum_path:
+back_to_top: true
+
