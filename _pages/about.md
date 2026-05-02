@@ -3,12 +3,12 @@ layout: about
 title: about
 permalink: /
 subtitle: Ph.D. Candidate in Political Science, New York University
-  
+
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false
-  more_info:  >
+  more_info: >
     <div style="text-align: center; line-height: 1.35;">
       <p style="margin-bottom: 0.2rem;">Wilf Family Department of Politics</p>
       <p style="margin-bottom: 0.2rem;">New York University</p>
@@ -16,12 +16,10 @@ profile:
     </div>
 
 selected_papers: false
-social: true
+social: false
 
 announcements:
   enabled: true
-  scrollable: true
-  limit: 5
 
 latest_posts:
   enabled: false
