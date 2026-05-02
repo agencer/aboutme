@@ -37,11 +37,11 @@ B.A. in Political Science
 
 ## Selected publications
 
-- Yörük, Erdem, and Alper Şükrü Gençer. “The dynamics of welfare state regime development in the global south: Structures, institutions, and political agency.” *Journal of Comparative Policy Analysis*, 2022.
+- Yörük, Erdem, and Alper Şükrü Gençer. “The dynamics of welfare state regime development in the global south: Structures, institutions, and political agency.” _Journal of Comparative Policy Analysis_, 2022.
 
-- Yörük, Erdem, and Alper Şükrü Gençer. “The politics of social assistance in South Africa: How protests and electoral politics shape the Child Support Grant.” *Governance*, 2020.
+- Yörük, Erdem, and Alper Şükrü Gençer. “The politics of social assistance in South Africa: How protests and electoral politics shape the Child Support Grant.” _Governance_, 2020.
 
-- Öniş, Ziya, and Alper Şükrü Gençer. “Democratic BRICS as role models in a shifting global order: Inherent dilemmas and the challenges ahead.” *Third World Quarterly*, 2018.
+- Öniş, Ziya, and Alper Şükrü Gençer. “Democratic BRICS as role models in a shifting global order: Inherent dilemmas and the challenges ahead.” _Third World Quarterly_, 2018.
 
 ## Grants and awards
 

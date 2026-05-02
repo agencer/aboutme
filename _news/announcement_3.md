@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented *Optimal Allocation of Compliance Incentives* at the NYU Rebecca Morton Experimental Conference.
+Presented _Optimal Allocation of Compliance Incentives_ at the NYU Rebecca Morton Experimental Conference.

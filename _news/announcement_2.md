@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented *Unbundling Autocratic Capture* at Behavioral Models of Politics.
+Presented _Unbundling Autocratic Capture_ at Behavioral Models of Politics.
