@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Political Science, New York University
+subtitle: 
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
