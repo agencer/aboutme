@@ -2,10 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Political Science, New York University
-
+subtitle: >
+  <br>
+  Ph.D. Candidate in Political Science, New York University
+  
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false
   more_info: >
@@ -13,7 +15,7 @@ profile:
     <p>New York University</p>
     <p>New York, NY</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
