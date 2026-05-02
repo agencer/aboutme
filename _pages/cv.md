@@ -3,8 +3,8 @@ layout: page
 permalink: /cv/
 title: CV
 description: Download my full academic CV.
-nav: true
-nav_order: 4
+nav: false
+nav_order: 5
 ---
 
 You can download my full academic CV here:
