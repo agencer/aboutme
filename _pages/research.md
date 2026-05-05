@@ -113,24 +113,6 @@ My research studies how citizens evaluate political choices when democratic thre
 </details>
 
 <details class="research-card">
-  <summary>When Do Electoral Power Grabs Mobilize the Opposition? Evidence from a Survey Experiment in Turkey</summary>
-
-  <div class="research-meta">
-    Electoral manipulation · Opposition mobilization · Türkiye · Survey experiment
-  </div>
-
-  <p>
-    <strong>Abstract.</strong> How do citizens respond when incumbents manipulate electoral rules before an election? This paper argues that reactions depend not only on whether rules are changed, but also on how the manipulation is carried out. Using a survey experiment in Turkey, I contrast institutional electoral change with extra-institutional, unilateral intervention. The main finding is that opposition supporters exposed to extra-institutional manipulation become more willing to direct resources toward election-monitoring action, while government supporters do not. Evidence for broader participation effects is weaker, and post-treatment measures provide only limited leverage on mechanism. The results suggest that citizens respond not only to electoral manipulation itself, but also to whether those changes appear to bypass accepted political procedures.
-  </p>
-
-  <div class="research-links">
-    <!-- <a class="btn btn-sm z-depth-0" href="/assets/pdf/electoral_power_grabs.pdf" target="_blank" rel="noopener noreferrer">Paper</a> -->
-    <!-- <a class="btn btn-sm z-depth-0" href="/assets/pdf/electoral_power_grabs_slides.pdf" target="_blank" rel="noopener noreferrer">Slides</a> -->
-    <span class="research-note">Manuscript available upon request.</span>
-  </div>
-</details>
-
-<details class="research-card">
   <summary>Crisis Management, Disaster Response, and Electoral Accountability</summary>
 
   <div class="research-meta">
@@ -172,6 +154,23 @@ My research studies how citizens evaluate political choices when democratic thre
   <div class="research-links">
     <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_Rethinking.pdf" target="_blank" rel="noopener noreferrer">Paper</a>
     <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_Rethinking_Appendix.pdf" target="_blank" rel="noopener noreferrer">Appendix</a>
+  </div>
+</details>
+
+<details class="research-card">
+  <summary>When Do Electoral Power Grabs Increase Support for Election Monitoring? Evidence from a Survey Experiment in Turkey</summary>
+
+  <div class="research-meta">
+    Electoral manipulation · Opposition mobilization · Türkiye · Survey experiment
+  </div>
+
+  <p>
+    <strong>Abstract.</strong> How do citizens respond when incumbents manipulate electoral rules before an election? I test this question with a survey experiment in Turkey that compares an institutional electoral intervention, an extra-institutional unilateral intervention, and a procedural reform framed around European Union harmonization. The results reveal a heterogeneous response rather than a general mobilization effect. Opposition supporters exposed to the extra-institutional intervention show greater support for election-monitoring resources than opposition supporters in the EU-framed control condition, while government supporters show no comparable increase. This pattern is concentrated in support for election-monitoring resources rather than broader participatory intentions. The findings suggest that electoral power grabs can increase opposition support for monitoring-oriented accountability, while leaving broader participation and the precise mechanism more uncertain.
+  </p>
+
+  <div class="research-links">
+    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_ElectoralPowerGrabs.pdf" target="_blank" rel="noopener noreferrer">Paper</a>
+    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_ElectoralPowerGrabs_Appendix.pdf" target="_blank" rel="noopener noreferrer">Appendix</a>
   </div>
 </details>
 
