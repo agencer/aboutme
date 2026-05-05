@@ -21,7 +21,7 @@ social: true
 announcements:
   enabled: true
   scrollable: true
-  limit: 3
+  limit: 2
 
 latest_posts:
   enabled: false
@@ -33,7 +33,7 @@ latest_posts:
   }
 
   .social .contact-icons {
-    font-size: 1rem;
+    font-size: 1.75rem;
   }
 
   .social .contact-icons a {
