@@ -53,10 +53,10 @@ latest_posts:
 
 I am a Ph.D. candidate in Political Science at New York University. I study how citizens evaluate political choices when democratic threats are hidden inside complex reforms, polarized narratives, or crisis politics.
 
-My dissertation develops a behavioral account of democratic backsliding. I examine why citizens sometimes accept reform packages with harmful institutional consequences, especially when those consequences are bundled with popular policies or presented through selective information.
+My dissertation develops a behavioral account of democratic backsliding. I examine why citizens sometimes accept reform packages with harmful institutional consequences, especially when those consequences are bundled with popular policies, made cognitively demanding, or presented through selective information. I use survey experiments, causal inference, and formal theory to study political decision-making under uncertainty.
 
-My research connects comparative politics and political behavior. I study how citizens respond to democratic backsliding, affective polarization, crisis politics, and failures of political accountability.
+My broader research connects comparative politics, political behavior, and political methodology. I study democratic backsliding, affective polarization, and political accountability, with ongoing work on how politicians and voters respond to crisis governance and public resource allocation.
 
-I use survey experiments, causal inference, and formal theory to examine how people evaluate complex political choices under uncertainty.
+Methodologically, I am interested in survey and field experiments, adaptive experimental designs, causal inference, and behavioral measurement, especially the measurement of attention, belief updating, information demand, and decision-making under complexity.
 
 My dissertation research has been supported by the American Political Science Association Doctoral Dissertation Research Improvement Grant, the Identities & Ideologies Project at NYU, and the NYU George Downs Prize.
