@@ -33,7 +33,7 @@ latest_posts:
   }
 
   .social .contact-icons {
-    font-size: 0.85rem;
+    font-size: 1rem;
   }
 
   .social .contact-icons a {
