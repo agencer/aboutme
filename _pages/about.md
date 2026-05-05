@@ -5,7 +5,7 @@ permalink: /
 subtitle: Ph.D. Candidate in Political Science, New York University
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
@@ -20,10 +20,36 @@ social: true
 
 announcements:
   enabled: true
+  scrollable: true
+  limit: 3
 
 latest_posts:
   enabled: false
 ---
+
+<style>
+  .bio-column {
+    overflow: hidden;
+  }
+
+  .social .contact-icons {
+    font-size: 0.85rem;
+  }
+
+  .social .contact-icons a {
+    margin-right: 0.35rem;
+  }
+
+  .social .contact-note {
+    font-size: 0.85rem;
+  }
+
+  @media (max-width: 576px) {
+    .bio-column {
+      overflow: visible;
+    }
+  }
+</style>
 
 I am a Ph.D. candidate in Political Science at New York University. I study how citizens evaluate political choices when democratic threats are hidden inside complex reforms, polarized narratives, or crisis politics.
 
