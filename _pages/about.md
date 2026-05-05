@@ -21,7 +21,7 @@ social: true
 announcements:
   enabled: true
   scrollable: true
-  limit: 2
+  limit: 3
 
 latest_posts:
   enabled: false
@@ -33,7 +33,7 @@ latest_posts:
   }
 
   .social .contact-icons {
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
 
   .social .contact-icons a {
@@ -53,10 +53,10 @@ latest_posts:
 
 I am a Ph.D. candidate in Political Science at New York University. I study how citizens evaluate political choices when democratic threats are hidden inside complex reforms, polarized narratives, or crisis politics.
 
-My dissertation develops a behavioral account of democratic backsliding. I examine why citizens sometimes fail to detect and even accept the reform packages with harmful institutional consequences, especially when those consequences are bundled with popular policies, made cognitively demanding, or presented through selective information. I use survey experiments, causal inference, and formal theory to study political decision-making under uncertainty.
+My dissertation develops a behavioral account of democratic backsliding. I examine why citizens sometimes accept reform packages with harmful institutional consequences, especially when those consequences are bundled with popular policies or presented through selective information.
 
-My broader research connects comparative politics, political behavior, and political methodology. I study democratic backsliding, affective polarization, and political accountability, with ongoing work on how voters respond to crisis governance and public resource allocation.
+My research connects comparative politics and political behavior. I study how citizens respond to democratic backsliding, affective polarization, crisis politics, and failures of political accountability.
 
-Methodologically, I am interested in survey and lab experiments, adaptive experimental designs, causal inference, and behavioral measurements, especially the measurement of attention, belief updating, information demand, and decision-making under complexity.
+I use survey experiments, causal inference, and formal theory to examine how people evaluate complex political choices under uncertainty.
 
 My dissertation research has been supported by the American Political Science Association Doctoral Dissertation Research Improvement Grant, the Identities & Ideologies Project at NYU, and the NYU George Downs Prize.
