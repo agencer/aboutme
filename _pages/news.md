@@ -4,12 +4,12 @@ title: news
 permalink: /news/
 ---
 
-2026: Presented “Unbundling Autocratic Capture” at Behavioral Models of Politics.
+May 1, 2026: Presented _Unbundling Autocratic Capture_ at Behavioral Models of Politics Conference.
 
-2026: Presented “Optimal Allocation of Compliance Incentives” at the NYU Rebecca Morton Experimental Conference.
+March 7, 2026: Presented _Optimal Allocation of Compliance Incentives_ at the NYU Rebecca Morton Experimental Conference.
 
-2025: Presented “Optimal Allocation of Compliance Incentives” at the NYU Data Science Frontiers: Society and Politics.
+October 15, 2025: Presented _Optimal Allocation of Compliance Incentives_ at the NYU Data Science Frontiers: Society and Politics.
 
-2025: Received the APSA Dissertation Improvement Grant for “Unbundling Autocratic Capture.”
+August 19, 2025: Received the APSA Doctoral Dissertation Research Improvement Grant for _Unbundling Autocratic Capture_.
 
-2025: Received an Identities & Ideologies Project research grant for work on stereotype-prone beliefs.
+August 15, 2025: Received an _Identities & Ideologies Project research grant_ for work on measuring stereotype-prone beliefs.
