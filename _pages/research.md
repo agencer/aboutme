@@ -61,25 +61,25 @@ nav_order: 2
   }
 </style>
 
-My research studies how citizens evaluate political choices when democratic threats are difficult to see, costly to process, or embedded inside broader political narratives. Across my work, I examine democratic backsliding, affective polarization, crisis politics, and political accountability using survey experiments, causal inference, and formal theory.
-
-<div class="research-section">
-
-<h1 class="research-section-title">Dissertation Projects</h1>
+My research studies how citizens evaluate political choices when democratic threats are hard to detect, costly to process, or embedded inside broader political narratives. Across my work, I examine democratic backsliding, affective polarization, crisis politics, and political accountability. Methodologically, I use survey experiments, causal inference, formal theory, adaptive experimental design, and behavioral measurement to study how people process political information under uncertainty and complexity.
 
 <details class="research-card" open>
   <summary>Unbundling Autocratic Capture</summary>
 
   <div class="research-meta">
-    Dissertation project · Democratic backsliding · Survey experiments
+    Dissertation project · Democratic backsliding · Political behavior · Survey experiments · Formal theory
   </div>
 
   <p>
-    This project studies how citizens respond to reform packages that contain harmful institutional consequences. I examine whether democratic threats become harder to detect when they are bundled with popular policies, embedded inside complex reforms, or presented through selective information.
+    <strong>Abstract.</strong> Democratic backsliding rarely arrives as a clear choice between democracy and authoritarianism. Institutional harms are often embedded inside broader reform packages, paired with popular policies, justified through selective narratives, or made difficult to evaluate through complexity. My dissertation studies how citizens respond to these bundled political choices. I ask when voters notice harmful institutional consequences, when they overlook them, and why some presentations of the same underlying reform make democratic costs easier or harder to detect.
   </p>
 
   <p>
-    The broader goal is to understand why citizens may accept political choices that weaken accountability even when the institutional costs are, in principle, knowable.
+    I develop a behavioral account of autocratic capture centered on complexity, selective emphasis, and information demand. The core argument is that citizens may accept reforms that weaken accountability not because they prefer democratic erosion, but because institutional costs are packaged in ways that shift attention, raise evaluation costs, or provide convenient shortcuts. Across a series of survey experiments, I vary whether harmful provisions are presented alone or bundled with other policies, whether information is directly visible or must be actively requested, and whether respondents receive favorable cues that emphasize the benefits of the reform while leaving institutional costs in the background.
+  </p>
+
+  <p>
+    The project connects comparative politics, political behavior, and political methodology. Substantively, it speaks to how democratic erosion can proceed through ordinary policy reforms rather than overt authoritarian appeals. Methodologically, it uses experimental designs to measure attention, information acquisition, belief updating, and decision-making under complexity. The broader goal is to explain why citizens may support political choices that weaken accountability even when the institutional consequences are, in principle, knowable.
   </p>
 
   <div class="research-links">
