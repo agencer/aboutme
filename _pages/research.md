@@ -117,6 +117,30 @@ My research studies how citizens evaluate political choices when democratic thre
 </details>
 
 <details class="research-card">
+  <summary>Mapping Stereotype-Prone Issues in Polarized Democracies</summary>
+
+  <div class="research-meta">
+    Affective polarization · Stereotypes · Social values · Measurement · Survey experiments
+  </div>
+
+  <p>
+    <strong>Abstract.</strong> Not all political issues are equally useful for studying out-group stereotypes. Some issues are polarized because groups truly differ, while others are promising because citizens strongly misperceive what the other side believes. This project develops a strategy for identifying “stereotype-prone” issues: issues where people are likely to overestimate out-group extremity relative to actual public opinion.
+  </p>
+
+  <p>
+    I build a database of social-value items from public opinion surveys and use it to select candidate issues for survey experiments. The goal is to separate real group differences from perceived extremity, and to identify where factual correction, exposure to moderate out-group views, or other interventions are most likely to change beliefs about the other side.
+  </p>
+
+  <p>
+    The broader contribution is methodological and substantive: the project provides a way to choose political issues before running polarization experiments, rather than selecting them ad hoc or relying only on researcher intuition.
+  </p>
+
+  <div class="research-links">
+    <span class="research-note">Work in progress.</span>
+  </div>
+</details>
+
+<details class="research-card">
   <summary>What Does Disaster Risk Buy? Political Allocation and the Composition of Mitigation Investment</summary>
 
   <div class="research-meta">
