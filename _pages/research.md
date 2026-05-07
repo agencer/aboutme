@@ -112,24 +112,38 @@ My research studies how citizens evaluate political choices when democratic thre
   </div>
 </details>
 
+<div class="research-section">
+
+<h1 class="research-section-title">Ongoing research</h1>
+
 <details class="research-card">
-  <summary>Crisis Management, Disaster Response, and Electoral Accountability</summary>
+  <summary>What Does Disaster Risk Buy? Political Allocation and the Composition of Mitigation Investment</summary>
 
   <div class="research-meta">
-    Crisis politics · Disaster response · Electoral accountability · Türkiye
+    Disaster preparedness · Hazard mitigation · Federal grants · Public investment · United States
   </div>
 
   <p>
-    This line of work studies how citizens evaluate incumbents after major crises. I examine whether disaster exposure, public investment, reconstruction, and crisis response shape electoral accountability, and whether voters distinguish between different parts of the governing coalition.
-  </p>
-
-  <p>
-    The project is motivated by a broader question: when crises make state capacity highly visible, do citizens reward responsiveness, punish failure, or reinterpret responsibility through partisan and institutional filters?
+    <strong>Abstract.</strong> Disaster risk is multidimensional, but public funding is selective. This paper develops a strategic threshold framework for allocation under latent risk: applicants must package risk into projects that clear state and federal grant filters. I study FEMA Hazard Mitigation Assistance (HMA) allocations linked to FEMA National Risk Index county risk. HMA is an empirical case of layered federalism, not unilateral local choice. Among county-years receiving main-category HMA, higher risk is associated with a conditional compositional shift toward mitigation and resilience infrastructure and away from non-liquid capacity, relative to liquid or reusable projects. Balanced-panel models with true zero observed HMA rows show that non-liquid capacity does not fall with risk in spending or receipt models, while mitigation and resilience infrastructure remains the most risk-responsive category. Exploratory diagnostics suggest asymmetric institutional translation: HMA translates physical and fundable loss risk especially strongly into durable mitigation infrastructure, while social vulnerability and an inverted community resilience score are not reflected in HMA allocation at comparable magnitudes. Per-capita robustness supports the mitigation and resilience pattern. Political moderation evidence is weaker and secondary.
   </p>
 
   <div class="research-links">
-    <!-- <a class="btn btn-sm z-depth-0" href="/assets/pdf/crisis_management_accountability.pdf" target="_blank" rel="noopener noreferrer">Paper</a> -->
-    <!-- <a class="btn btn-sm z-depth-0" href="/assets/pdf/crisis_management_accountability_slides.pdf" target="_blank" rel="noopener noreferrer">Slides</a> -->
+    <span class="research-note">Work in progress.</span>
+  </div>
+</details>
+
+<details class="research-card">
+  <summary>Severe Exposure and Incumbent Support after Disaster</summary>
+
+  <div class="research-meta">
+    Disaster exposure · Electoral accountability · Crisis politics · Türkiye
+  </div>
+
+  <p>
+    <strong>Abstract.</strong> Disasters are usually expected to expose government failure and generate electoral punishment. I argue that severe exposure creates two opposing forces: it can reveal failure and produce blame, but it can also raise the value of incumbent-controlled recovery access. The key distinction is that destruction is not dependence: incumbent resilience requires perceived or actual recovery-access advantage, not gratitude for damage. Using a validated district election panel from Turkey and a within-province exposure design, I show that more physically exposed districts shifted toward Erdoğan in 2023: the main weighted province-fixed-effects coefficient is 0.6159 with preferred SE 0.4877 across 972 districts in 81 provinces. The association is concentrated in the severe-exposure tail rather than in a smooth punishment gradient. Mechanism probes show that damage, emergency shelter allocation, and local municipal control do not by themselves explain the pattern, sharpening the distinction between destruction and recovery dependence.
+  </p>
+
+  <div class="research-links">
     <span class="research-note">Work in progress.</span>
   </div>
 </details>
