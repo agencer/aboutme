@@ -65,7 +65,7 @@ My research studies how citizens evaluate political choices when democratic thre
 
 <div class="research-section">
 
-<h1 class="research-section-title">Current projects</h1>
+<h1 class="research-section-title">Dissertation Projects</h1>
 
 <details class="research-card" open>
   <summary>Unbundling Autocratic Capture</summary>
@@ -92,7 +92,7 @@ My research studies how citizens evaluate political choices when democratic thre
 
 <div class="research-section">
 
-<h1 class="research-section-title">Ongoing research</h1>
+<h1 class="research-section-title">Ongoing Research</h1>
 
 <details class="research-card">
   <summary>Optimal Allocation of Compliance Incentives</summary>
@@ -152,7 +152,7 @@ My research studies how citizens evaluate political choices when democratic thre
 
 <div class="research-section">
 
-<h1 class="research-section-title">Under review</h1>
+<h1 class="research-section-title">Under Review</h1>
 
 <details class="research-card">
   <summary>Rethinking “Them”: Challenging Out-Group Stereotypes in Backsliding Democracies</summary>
@@ -192,7 +192,7 @@ My research studies how citizens evaluate political choices when democratic thre
 
 <div class="research-section">
 
-<h1 class="research-section-title">Published work</h1>
+<h1 class="research-section-title">Published Work</h1>
 
 <details class="research-card">
   <summary>The dynamics of welfare state regime development in the global south: Structures, institutions, and political agency</summary>
