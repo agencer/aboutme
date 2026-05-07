@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented _Optimal Allocation of Compliance Incentives_ at the NYU Data Science Frontiers: Society and Politics.
-
+Presented my poster, _Optimal Allocation of Compliance Incentives_, at the NYU Data Science Frontiers: Society and Politics.

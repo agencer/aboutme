@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented _Unbundling Autocratic Capture_ at Behavioral Models of Politics Conference.
+Presented my poster, _Unbundling Autocratic Capture_, at the Behavioral Models of Politics Conference.
