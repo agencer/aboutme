@@ -149,7 +149,7 @@ My research studies how citizens evaluate political choices when democratic thre
 </details>
 
 <details class="research-card">
-  <summary>Severe Exposure and Incumbent Support after Disaster</summary>
+  <summary>When Destruction Does Not Produce Accountability: Disaster Exposure and Incumbent Resilience</summary>
 
   <div class="research-meta">
     Disaster exposure · Electoral accountability · Crisis politics · Türkiye
