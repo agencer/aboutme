@@ -108,7 +108,7 @@ My research studies how citizens evaluate political choices when democratic thre
   </div>
 
   <p>
-    This project asks how researchers should allocate limited experimental budgets when incentives affect treatment take-up, compliance, and measurement precision. I study how to trade off sample size, compliance, and cost when treatment effects and compliance behavior vary across strata.
+    <strong>Abstract.</strong> Many experiments use incentives to increase treatment take-up, but incentives are costly and compliance is often uneven across groups. This project asks how researchers should allocate a limited experimental budget when incentive levels affect both who complies with treatment and how precisely treatment effects can be estimated. I study the tradeoff between sample size, compliance, and cost when treatment effects and compliance behavior vary across strata. The project treats experimental design as an allocation problem under uncertainty. Rather than asking only whether an incentive works on average, it asks where incentives should be targeted, how much should be spent, and when a smaller but more compliant sample can produce better estimates than a larger and cheaper design. The broader contribution is to connect causal inference, experimental design, and decision theory in settings where researchers care about both treatment effects and the cost of inducing compliance.
   </p>
 
   <p>
