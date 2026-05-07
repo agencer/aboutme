@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: Research
 description: Research agenda, working papers, and publications.
 nav: true
 nav_order: 2
@@ -61,7 +61,11 @@ nav_order: 2
   }
 </style>
 
-My research studies how citizens evaluate political choices when democratic threats are hard to detect, costly to process, or embedded inside broader political narratives. Across my work, I examine democratic backsliding, affective polarization, crisis politics, and political accountability. Methodologically, I use survey experiments, causal inference, formal theory, adaptive experimental design, and behavioral measurement to study how people process political information under uncertainty and complexity.
+My research studies how citizens evaluate political choices when democratic threats are hard to detect, costly to process, or embedded inside broader political narratives. I examine democratic backsliding, affective polarization, crisis politics, and political accountability. Methodologically, I use survey experiments, causal inference, formal theory, adaptive experimental designs, and behavioral measurement to study political decision-making under beliefs, uncertainty, and complexity.
+
+<div class="research-section">
+
+<h1 class="research-section-title">Dissertation Projects</h1>
 
 <details class="research-card" open>
   <summary>Unbundling Autocratic Capture</summary>
@@ -75,7 +79,7 @@ My research studies how citizens evaluate political choices when democratic thre
   </p>
 
   <p>
-    I develop a behavioral account of autocratic capture centered on complexity, selective emphasis, and information demand. The core argument is that citizens may accept reforms that weaken accountability not because they prefer democratic erosion, but because institutional costs are packaged in ways that shift attention, raise evaluation costs, or provide convenient shortcuts. Across a series of survey experiments, I vary whether harmful provisions are presented alone or bundled with other policies, whether information is directly visible or must be actively requested, and whether respondents receive favorable cues that emphasize the benefits of the reform while leaving institutional costs in the background.
+    I develop a behavioral account of autocratic capture centered on complexity, selective emphasis, and information demand. The core argument is that citizens may accept reforms that weaken accountability not because they prefer democratic erosion, but because institutional costs are packaged in ways that shift attention, raise evaluation costs, or provide convenient shortcuts. Across a series of survey experiments, I vary whether harmful provisions are presented alone or bundled with other policies, whether information is directly visible or must be actively requested, and whether favorable cues emphasize reform benefits while leaving institutional costs in the background.
   </p>
 
   <p>
@@ -89,6 +93,8 @@ My research studies how citizens evaluate political choices when democratic thre
     <span class="research-note">Draft available upon request.</span>
   </div>
 </details>
+
+</div>
 
 <div class="research-section">
 
@@ -133,14 +139,14 @@ My research studies how citizens evaluate political choices when democratic thre
 </details>
 
 <details class="research-card">
-  <summary>What Does Disaster Risk Buy? Political Allocation and the Composition of Mitigation Investment</summary>
+  <summary>When Destruction Does Not Produce Accountability: Disaster Exposure and Incumbent Resilience</summary>
 
   <div class="research-meta">
-    Disaster preparedness · Hazard mitigation · Federal grants · Public investment · United States
+  Disaster exposure · Electoral accountability · Recovery dependence · Türkiye
   </div>
 
   <p>
-    <strong>Abstract.</strong> Disaster risk does not automatically translate into disaster preparedness. This project studies how federal mitigation funds are allocated across U.S. counties and what kinds of investments risk actually buys. I link FEMA Hazard Mitigation Assistance grants to county-level risk measures from the FEMA National Risk Index and examine whether higher-risk places receive more durable mitigation infrastructure, more flexible recovery capacity, or other forms of preparedness investment.
+  <strong>Abstract.</strong> Disasters are often expected to expose government failure and produce electoral punishment. This project asks why destruction does not always translate into accountability. I argue that severe disaster exposure creates two competing forces: it can reveal failure and increase blame, but it can also make recovery resources more valuable, especially when citizens believe the incumbent has greater control over aid, reconstruction, and access to the state. Voters may blame the government for disaster losses while still seeing the incumbent as the safer route to recovery. Using district-level election data from Türkiye after the 2023 earthquakes, I study when crises generate electoral accountability, when they instead produce incumbent resilience, and why the politics of rebuilding can differ from the politics of blame.
   </p>
 
   <div class="research-links">
@@ -149,14 +155,14 @@ My research studies how citizens evaluate political choices when democratic thre
 </details>
 
 <details class="research-card">
-  <summary>When Destruction Does Not Produce Accountability: Disaster Exposure and Incumbent Resilience</summary>
+  <summary>What Does Disaster Risk Buy? Political Allocation and the Composition of Mitigation Investment</summary>
 
   <div class="research-meta">
-    Disaster exposure · Electoral accountability · Crisis politics · Türkiye
+    Disaster preparedness · Hazard mitigation · Federal grants · Public investment · United States
   </div>
 
   <p>
-  <strong>Abstract.</strong> Disasters are often expected to expose government failure and produce electoral punishment. This project asks why destruction does not always translate into accountability. I argue that severe disaster exposure creates two competing forces: it can reveal failure and increase blame, but it can also make recovery resources more valuable, especially when citizens believe the incumbent has greater control over aid, reconstruction, and access to the state. Voters may blame the government for disaster losses while still seeing the incumbent as the safer route to recovery. Using district-level election data from Türkiye after the 2023 earthquakes, I study when crises generate electoral accountability, when they instead produce incumbent resilience, and why the politics of rebuilding can differ from the politics of blame.
+    <strong>Abstract.</strong> Disaster risk does not automatically translate into disaster preparedness. This project studies how federal mitigation funds are allocated across U.S. counties and what kinds of investments risk actually buys. I link FEMA Hazard Mitigation Assistance grants to county-level risk measures from the FEMA National Risk Index and examine whether higher-risk places receive more durable mitigation infrastructure, more flexible recovery capacity, or other forms of preparedness investment. The broader goal is to understand how federal grant systems filter public need before disasters happen, turning some forms of risk into fundable projects while leaving others less visible.
   </p>
 
   <div class="research-links">
