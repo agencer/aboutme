@@ -98,7 +98,7 @@ My research studies how citizens evaluate political choices when democratic thre
   <summary>Optimal Allocation of Compliance Incentives</summary>
 
   <div class="research-meta">
-    Experimental design · Causal inference · Compliance · Incentives
+    With Cyrus Samii · Experimental design · Causal inference · Compliance · Incentives
   </div>
 
   <p>
