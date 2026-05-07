@@ -90,6 +90,10 @@ My research studies how citizens evaluate political choices when democratic thre
   </div>
 </details>
 
+<div class="research-section">
+
+<h1 class="research-section-title">Ongoing research</h1>
+
 <details class="research-card">
   <summary>Optimal Allocation of Compliance Incentives</summary>
 
@@ -111,10 +115,6 @@ My research studies how citizens evaluate political choices when democratic thre
     <span class="research-note">Draft available upon request.</span>
   </div>
 </details>
-
-<div class="research-section">
-
-<h1 class="research-section-title">Ongoing research</h1>
 
 <details class="research-card">
   <summary>What Does Disaster Risk Buy? Political Allocation and the Composition of Mitigation Investment</summary>
