@@ -15,6 +15,7 @@ My teaching focuses on comparative politics, international politics, research de
 |---|---|---|
 | International Politics | Recitation Leader | Fall 2023, Spring 2024, Spring 2025 |
 | Introduction to Comparative Politics | Recitation Leader | Fall 2024 |
+| Democracy Research Initiative (DRI) | Quantitative Methods Advisor | Fall 2025, Spring 2026 |
 | Quantitative Methods | Teaching Assistant | Fall 2025 |
 | Introduction to Research Methods | Recitation Leader | Spring 2026 |
 
