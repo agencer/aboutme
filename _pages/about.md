@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate in Political Science, New York University
+subtitle: Welcome to my personal page!
 
 profile:
   align: right
