@@ -61,8 +61,6 @@ nav_order: 2
   }
 </style>
 
-My research studies how citizens evaluate political choices when democratic threats are hard to detect, costly to process, or embedded inside broader political narratives. I examine democratic backsliding, affective polarization, crisis politics, and political accountability. Methodologically, I use survey experiments, causal inference, formal theory, adaptive experimental designs, and behavioral measurement to study political decision-making under beliefs, uncertainty, and complexity.
-
 <div class="research-section">
 
 <h1 class="research-section-title">Dissertation Projects</h1>
