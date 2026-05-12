@@ -51,12 +51,8 @@ latest_posts:
   }
 </style>
 
-I am a Ph.D. candidate in Political Science at New York University. I study how citizens evaluate political choices when democratic threats are hidden inside complex reforms, polarized narratives, or crisis politics.
+I am a Ph.D. candidate in Political Science at New York University. My research examines how citizens and politicians navigate democratic accountability under conditions of complexity, polarization, and crisis. Across projects, I study democratic backsliding, affective polarization, crisis governance, and public resource allocation, with a particular interest in how voters evaluate bundled reforms, mobilize against threats to democracy, and hold incumbents accountable under changing political conditions.
 
-My dissertation develops a behavioral account of democratic backsliding. I examine why citizens sometimes accept reform packages with harmful institutional consequences, especially when those consequences are bundled with popular policies, made cognitively demanding, or presented through selective information. I use survey experiments, causal inference, and formal theory to study political decision-making under uncertainty.
+My dissertation develops a behavioral account of democratic backsliding. I study why citizens sometimes fail to recognize or resist reforms that weaken democratic institutions. I argue that citizens may accept democratic harm not because they support backsliding directly, but because institutional costs are embedded in broader reform packages, obscured by complexity, or presented through selective information. I use survey experiments, causal inference, and formal theory to study political decision-making under uncertainty.
 
-My broader research connects comparative politics, political behavior, and political methodology. I study democratic backsliding, affective polarization, and political accountability, with ongoing work on how politicians and voters respond to crisis governance and public resource allocation.
-
-Methodologically, I am interested in survey and field experiments, adaptive experimental designs, causal inference, and behavioral measurement, especially the measurement of attention, belief updating, information demand, and decision-making under complexity.
-
-My dissertation research has been supported by the American Political Science Association Doctoral Dissertation Research Improvement Grant, the Identities & Ideologies Project at NYU, and the NYU George Downs Prize.
+Methodologically, I develop and apply experimental and causal-inference tools to improve how political scientists measure political beliefs, misperceptions, attention, information demand, and decision-making under complexity. My dissertation research has been supported by the American Political Science Association Doctoral Dissertation Research Improvement Grant, the Identities & Ideologies Project at NYU, and the NYU George Downs Prize.
