@@ -127,9 +127,13 @@ nav_order: 2
     Affective polarization · Stereotypes · Social values · Measurement · Survey experiments
   </div>
 
-  <p>
-    <strong>Abstract.</strong> Not all political issues are equally useful for studying out-group stereotypes. Some issues are polarized because groups truly differ, while others are promising because citizens strongly misperceive what the other side believes. This project develops a strategy for identifying “stereotype-prone” issues: issues where people are likely to overestimate out-group extremity relative to actual public opinion. I build a database of social-value items from public opinion surveys and use it to select candidate issues for survey experiments. The goal is to separate real group differences from perceived extremity, and to identify where factual correction, exposure to moderate out-group views, or other interventions are most likely to change beliefs about the other side. The broader contribution is methodological and substantive: the project provides a way to choose political issues before running polarization experiments, rather than selecting them ad hoc or relying only on researcher intuition.
-  </p>
+<p>
+  <strong>Abstract.</strong> A researcher studying partisan stereotypes faces a basic problem before the survey is even fielded: which issues should be asked about? On some issues, the parties genuinely disagree. On others, voters mainly overstate how extreme the other side is. In ordinary survey responses, these two situations can look very similar, even though only the second is really a case of misperception. This project develops a way to distinguish them in advance. I adapt representativeness bias model, an economic model of biased belief in which people infer how common a trait is in a group from how sharply it distinguishes that group, to the study of partisan perception. Given one party's actual distribution of positions, the model predicts how the other side will perceive it. On issue-placement items from the American National Election Studies, these predictions perform well out of sample and outperform two natural alternatives: that people perceive the out-party accurately, or that they see it as a milder version of its true position.
+</p>
+
+<p>
+  The result is a practical detection tool. Using ordinary opinion data alone, without any direct measure of perceived positions, researchers can rank issues by how prone they are to stereotyping and identify where perceived extremity is likely to outrun real opinion. The misperceptions flagged by the model are not scattered randomly across the issue space. They cluster along a small number of dimensions, especially economic issues, in ways the model itself anticipates. Whether these stereotypes can be corrected is a separate question that cross-sectional data cannot answer. I therefore outline a pre-registered experiment to test whether correcting partisans on one issue also changes perceptions on related issues. The broader aim is to give polarization research a more principled basis for choosing issues, while bringing a workhorse account of biased belief from economics into the study of political perception.
+</p>
 
   <div class="research-links">
     <span class="research-note">Work in progress.</span>
