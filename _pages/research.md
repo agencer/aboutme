@@ -121,18 +121,14 @@ nav_order: 2
 </details>
 
 <details class="research-card">
-  <summary>Mapping Stereotype-Prone Issues in Polarized Democracies</summary>
+  <summary>From Distinctiveness to Distortion: Predicting Partisan Misperception</summary>
 
   <div class="research-meta">
-    Affective polarization · Stereotypes · Social values · Measurement · Survey experiments
+    Misperceptions · Stereotypes · Measurement · Affective polarization · Experiments
   </div>
 
 <p>
-  <strong>Abstract.</strong> A researcher studying partisan stereotypes faces a basic problem before the survey is even fielded: which issues should be asked about? On some issues, the parties genuinely disagree. On others, voters mainly overstate how extreme the other side is. In ordinary survey responses, these two situations can look very similar, even though only the second is really a case of misperception. This project develops a way to distinguish them in advance. I adapt representativeness bias model, an economic model of biased belief in which people infer how common a trait is in a group from how sharply it distinguishes that group, to the study of partisan perception. Given one party's actual distribution of positions, the model predicts how the other side will perceive it. On issue-placement items from the American National Election Studies, these predictions perform well out of sample and outperform two natural alternatives: that people perceive the out-party accurately, or that they see it as a milder version of its true position.
-</p>
-
-<p>
-  The result is a practical detection tool. Using ordinary opinion data alone, without any direct measure of perceived positions, researchers can rank issues by how prone they are to stereotyping and identify where perceived extremity is likely to outrun real opinion. The misperceptions flagged by the model are not scattered randomly across the issue space. They cluster along a small number of dimensions, especially economic issues, in ways the model itself anticipates. Whether these stereotypes can be corrected is a separate question that cross-sectional data cannot answer. I therefore outline a pre-registered experiment to test whether correcting partisans on one issue also changes perceptions on related issues. The broader aim is to give polarization research a more principled basis for choosing issues, while bringing a workhorse account of biased belief from economics into the study of political perception.
+  <strong>Abstract.</strong> Partisans misjudge each other unevenly across issues: each side pictures the other as more uniformly extreme than it is. We build a predictive tool for social scientists that says in advance, from one side’s survey answers alone, how badly the other side will be misperceived on any given issue. The tool formalizes the representativeness heuristic, the tendency to judge a group by what is distinctive of it: it re-weights each position in a party’s true distribution by how sharply it distinguishes that party from the other (its likelihood ratio, more common inside the party than outside), and returns the distribution the other party imagines, sharpened toward the positions that set the first party apart. We call it the Representativeness-Discounted Propensity Density (RDPD). We validate it two ways. On the 2012 and 2024 American National Election Studies, RDPD predicts out-party perceptions out of sample with the lowest error of any benchmark, roughly halving the error of assuming accurate perception, and it recovers outgroup homogenization and a low-dimensional issue structure. We then pre-register a correction experiment testing whether correcting high-RDPD misperceptions reduces misperception and affective polarization more than correcting low-RDPD ones.
 </p>
 
   <div class="research-links">
