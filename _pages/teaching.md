@@ -19,11 +19,12 @@ My teaching focuses on comparative politics, international politics, research de
 | International Politics | Recitation Leader | Spring 2024 | [Section 1]({{ '/assets/pdf/eval/Spring2024-InternationalPolitics1.pdf' | relative_url }}), [Section 2]({{ '/assets/pdf/eval/Spring2024-InternationalPolitics2.pdf' | relative_url }}) |
 | Introduction to Comparative Politics | Recitation Leader | Fall 2024 | [Section 1]({{ '/assets/pdf/eval/Fall2024-ComparativePolitics1.pdf' | relative_url }}), [Section 2]({{ '/assets/pdf/eval/Fall2024-ComparativePolitics2.pdf' | relative_url }}) |
 | International Politics | Recitation Leader | Spring 2025 | [Section 1]({{ '/assets/pdf/eval/Spring2025-InternationalPolitics1.pdf' | relative_url }}), [Section 2]({{ '/assets/pdf/eval/Spring2025-InternationalPolitics2.pdf' | relative_url }}) |
-| Democracy Research Initiative (DRI) | Quantitative Methods Advisor | Fall 2025 | — |
-| Quantitative Methods | Teaching Assistant | Fall 2025 | — |
-| Democracy Research Initiative (DRI) | Quantitative Methods Advisor | Spring 2026 | — |
+| Democracy Research Initiative (DRI) | Quantitative Methods Advisor | Fall 2025 | Not collected |
+| Quantitative Methods | Teaching Assistant | Fall 2025 | Minimum response threshold not met |
+| Democracy Research Initiative (DRI) | Quantitative Methods Advisor | Spring 2026 | Not collected |
 | Introduction to Research Methods | Recitation Leader | Spring 2026 | [Section 1]({{ '/assets/pdf/eval/Spring2026-IntroductiontoResearchMeth1.pdf' | relative_url }}), [Section 2]({{ '/assets/pdf/eval/Spring2026-IntroductiontoResearchMeth2.pdf' | relative_url }}) |
-| International Politics | Recitation Leader | Fall 2026 | — |
+| International Politics | Recitation Leader | Fall 2026 | Evaluations pending |
+| Democracy Research Initiative (DRI) | Quantitative Methods Advisor | Fall 2026 | Not collected |
 
 
 <h2 style="margin-top: 3rem;">Washington University in St. Louis</h2>
