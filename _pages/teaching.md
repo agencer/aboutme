@@ -30,10 +30,10 @@ My teaching focuses on comparative politics, international politics, research de
 <h2 style="margin-top: 3rem;">Washington University in St. Louis</h2>
 
 
-| Course | Role | Term | Student Evaluations |
+| Course | Role | Term |
 |---|---|---|---|
-| International Politics | Teaching Assistant | Fall 2020 | — |
-| Quantitative Methods | Teaching Assistant | Spring 2021 | — |
+| International Politics | Teaching Assistant | Fall 2020 |
+| Quantitative Methods | Teaching Assistant | Spring 2021 |
 
 
 <h2 style="margin-top: 3rem;">Teaching areas</h2>
