@@ -63,13 +63,13 @@ nav_order: 2
 
 <div class="research-section">
 
-<h1 class="research-section-title">Dissertation Projects</h1>
+<h1 class="research-section-title">Job Market Paper</h1>
 
 <details class="research-card" open>
-  <summary>Unbundling Autocratic Capture</summary>
+  <summary>Unbundling Autocratic Capture: Complexity, Selective Emphasis, and Support for Harmful Reform Bundles</summary>
 
   <div class="research-meta">
-    Dissertation project · Democratic backsliding · Political behavior · Survey experiments · Formal theory
+    Job Market Paper · Democratic backsliding · Political behavior · Survey experiments · Formal theory
   </div>
 
   <p>
@@ -89,6 +89,46 @@ nav_order: 2
     <!-- <a class="btn btn-sm z-depth-0" href="/assets/pdf/unbundling_autocratic_capture.pdf" target="_blank" rel="noopener noreferrer">Paper</a> -->
     <!-- <a class="btn btn-sm z-depth-0" href="/assets/pdf/unbundling_autocratic_capture_slides.pdf" target="_blank" rel="noopener noreferrer">Slides</a> -->
     <span class="research-note">Draft available upon request.</span>
+  </div>
+</details>
+
+</div>
+
+<div class="research-section">
+
+<h1 class="research-section-title">Under Review</h1>
+
+<details class="research-card">
+  <summary>Rethinking “Them”: Challenging Out-Group Stereotypes in Backsliding Democracies</summary>
+
+  <div class="research-meta">
+    Affective polarization · Belief updating · Türkiye · Survey experiment
+  </div>
+
+  <p>
+    <strong>Abstract.</strong> Affective polarization carries particular force in backsliding democracies, where citizens often exaggerate the extremity of their political opponents and may distrust corrective information. This study asks whether targeted, issue-specific stereotype correction can moderate those exaggerated beliefs in Türkiye, and whether its downstream effects vary by intervention format and audience. I first develop a data-light targeting procedure that uses existing opinion surveys to identify policy domains on which out-group extremity is especially likely to be overstated. I then field a preregistered online survey experiment comparing two interventions: accuracy feedback about the true distribution of out-group views, and exposure to simulated out-group conversations expressing moderate positions. Accuracy feedback leads respondents in the full sample to see the political out-group as less extreme, with larger corrective point estimates among opposition supporters, whereas conversation exposure yields weaker average belief updating. Those shifts in belief do not translate uniformly into warmer intergroup attitudes. The affective responses are more heterogeneous and often less precisely estimated, with subgroup patterns suggestive of more favorable relational responses under conversation exposure among opposition supporters, who also begin with the largest baseline misperceptions, and less favorable affective responses to accuracy feedback among government supporters. Taken together, the findings suggest that belief correction remains feasible under democratic backsliding, but that its affective consequences depend on delivery format, audience characteristics, and the credibility of the environment in which the message is received.
+  </p>
+
+  <div class="research-links">
+    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_Rethinking.pdf" target="_blank" rel="noopener noreferrer">Paper</a>
+    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_Rethinking_Appendix.pdf" target="_blank" rel="noopener noreferrer">Appendix</a>
+  </div>
+</details>
+
+<details class="research-card">
+  <summary>When Do Electoral Power Grabs Increase Support for Election Monitoring? Evidence from a Survey Experiment in Turkey</summary>
+
+  <div class="research-meta">
+    Electoral manipulation · Opposition mobilization · Türkiye · Survey experiment
+  </div>
+
+  <p>
+    <strong>Abstract.</strong> How do citizens respond when incumbents manipulate electoral rules before an election? I test this question with a survey experiment in Turkey that compares an institutional electoral intervention, an extra-institutional unilateral intervention, and a procedural reform framed around European Union harmonization. The results reveal a heterogeneous response rather than a general mobilization effect. Opposition supporters exposed to the extra-institutional intervention show greater support for election-monitoring resources than opposition supporters in the EU-framed control condition, while government supporters show no comparable increase. This pattern is concentrated in support for election-monitoring resources rather than broader participatory intentions. The findings suggest that electoral power grabs can increase opposition support for monitoring-oriented accountability, while leaving broader participation and the precise mechanism more uncertain.
+  </p>
+
+  <div class="research-links">
+    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_ElectoralPowerGrabs.pdf" target="_blank" rel="noopener noreferrer">Paper</a>
+    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_ElectoralPowerGrabs_Appendix.pdf" target="_blank" rel="noopener noreferrer">Appendix</a>
   </div>
 </details>
 
@@ -165,46 +205,6 @@ nav_order: 2
 
   <div class="research-links">
     <span class="research-note">Work in progress.</span>
-  </div>
-</details>
-
-</div>
-
-<div class="research-section">
-
-<h1 class="research-section-title">Under Review</h1>
-
-<details class="research-card">
-  <summary>Rethinking “Them”: Challenging Out-Group Stereotypes in Backsliding Democracies</summary>
-
-  <div class="research-meta">
-    Affective polarization · Belief updating · Türkiye · Survey experiment
-  </div>
-
-  <p>
-    <strong>Abstract.</strong> Affective polarization carries particular force in backsliding democracies, where citizens often exaggerate the extremity of their political opponents and may distrust corrective information. This study asks whether targeted, issue-specific stereotype correction can moderate those exaggerated beliefs in Türkiye, and whether its downstream effects vary by intervention format and audience. I first develop a data-light targeting procedure that uses existing opinion surveys to identify policy domains on which out-group extremity is especially likely to be overstated. I then field a preregistered online survey experiment comparing two interventions: accuracy feedback about the true distribution of out-group views, and exposure to simulated out-group conversations expressing moderate positions. Accuracy feedback leads respondents in the full sample to see the political out-group as less extreme, with larger corrective point estimates among opposition supporters, whereas conversation exposure yields weaker average belief updating. Those shifts in belief do not translate uniformly into warmer intergroup attitudes. The affective responses are more heterogeneous and often less precisely estimated, with subgroup patterns suggestive of more favorable relational responses under conversation exposure among opposition supporters, who also begin with the largest baseline misperceptions, and less favorable affective responses to accuracy feedback among government supporters. Taken together, the findings suggest that belief correction remains feasible under democratic backsliding, but that its affective consequences depend on delivery format, audience characteristics, and the credibility of the environment in which the message is received.
-  </p>
-
-  <div class="research-links">
-    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_Rethinking.pdf" target="_blank" rel="noopener noreferrer">Paper</a>
-    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_Rethinking_Appendix.pdf" target="_blank" rel="noopener noreferrer">Appendix</a>
-  </div>
-</details>
-
-<details class="research-card">
-  <summary>When Do Electoral Power Grabs Increase Support for Election Monitoring? Evidence from a Survey Experiment in Turkey</summary>
-
-  <div class="research-meta">
-    Electoral manipulation · Opposition mobilization · Türkiye · Survey experiment
-  </div>
-
-  <p>
-    <strong>Abstract.</strong> How do citizens respond when incumbents manipulate electoral rules before an election? I test this question with a survey experiment in Turkey that compares an institutional electoral intervention, an extra-institutional unilateral intervention, and a procedural reform framed around European Union harmonization. The results reveal a heterogeneous response rather than a general mobilization effect. Opposition supporters exposed to the extra-institutional intervention show greater support for election-monitoring resources than opposition supporters in the EU-framed control condition, while government supporters show no comparable increase. This pattern is concentrated in support for election-monitoring resources rather than broader participatory intentions. The findings suggest that electoral power grabs can increase opposition support for monitoring-oriented accountability, while leaving broader participation and the precise mechanism more uncertain.
-  </p>
-
-  <div class="research-links">
-    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_ElectoralPowerGrabs.pdf" target="_blank" rel="noopener noreferrer">Paper</a>
-    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_ElectoralPowerGrabs_Appendix.pdf" target="_blank" rel="noopener noreferrer">Appendix</a>
   </div>
 </details>
 
