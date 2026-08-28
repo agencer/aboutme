@@ -85,10 +85,7 @@ nav_order: 2
   </p>
 
   <div class="research-links">
-    <!-- Add files to assets/pdf/ and uncomment when ready. -->
-    <!-- <a class="btn btn-sm z-depth-0" href="/assets/pdf/unbundling_autocratic_capture.pdf" target="_blank" rel="noopener noreferrer">Paper</a> -->
-    <!-- <a class="btn btn-sm z-depth-0" href="/assets/pdf/unbundling_autocratic_capture_slides.pdf" target="_blank" rel="noopener noreferrer">Slides</a> -->
-    <span class="research-note">Draft available upon request.</span>
+    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_JobMarketPaper.pdf" target="_blank" rel="noopener noreferrer">Paper & Appendix</a>
   </div>
 </details>
 
