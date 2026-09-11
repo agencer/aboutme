@@ -86,6 +86,8 @@ nav_order: 2
 
   <div class="research-links">
     <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_JobMarketPaper.pdf" target="_blank" rel="noopener noreferrer">Paper & Appendix</a>
+    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_JobMarketPaper_onlyPaper.pdf" target="_blank" rel="noopener noreferrer">Only Paper</a>
+    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Gencer_JobMarketPaper_onlyApp.pdf" target="_blank" rel="noopener noreferrer">Only Appendix</a>
   </div>
 </details>
 
